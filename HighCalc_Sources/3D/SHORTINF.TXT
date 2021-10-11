@@ -1,0 +1,4 @@
+TImage descendant which can draw in 2-D or 3-D world coordinates.
+Has axes labelling routines, and surface draw algorithms for wired or filled surfaces.
+Scale free values can be set for viewpoint location and opening angle of the camera.
+Demo. 
